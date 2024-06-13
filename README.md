@@ -1,5 +1,5 @@
 # StereoShock
-![SteroShock Unit](Images/Complete) ![StereoShock with electrodes](Images/CompleteWithElectrodes)
+![SteroShock Unit](Images/Complete.jpg) ![StereoShock with electrodes](Images/CompleteWithElectrodes.jpg)
 ## What
 Stereoshock is a printed adapter for using TENS style pads with the shock collars used in the OpenShock project
 
