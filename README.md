@@ -13,4 +13,4 @@ The project consists of a 3-d printed housing for the front of the shock unit, a
 This is provided without any warranty or guarentee of safety. Common sense applies. Do not use this device if you're sensitive to electrical impulses. Do not use with any insertable electrode. Only use pads below the waist, and never directly against the spine. The pads should never be more than an inch apart. This is not a medical device, and if you have ANY doubts about using this safely, please do not use. I am not liable for any misuse of this design or idea.
 
 ## Assembly
-Instructions are in the [Assembly Guide](Assembly Instructions.md)
+Instructions are in the [Assembly Guide](Docs/Assembly Instructions.md)
