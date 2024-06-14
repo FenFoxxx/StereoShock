@@ -19,7 +19,7 @@ The housing should be printed front down (The STL is already oriented correctly)
 Remove the four phillips head screws from the front of the unit. You should be able to lift the PCB out.
 
 ## Solder the jack
-![Jack with all 3 pins]/(Images/Jack3Pins.jpg)
+![Jack with all 3 pins](/Images/Jack3Pins.jpg)
 ![Spare pin removed](/Images/Jack2Pins.jpg)
 Locate the center (Longest pin) on the base of the jack and cut it off flush with the jack. This pin is connected to the brass ring at the top of the jack, and could provide an unexpected path for the shock if attached. 
 ![Jack with wires soldered](/Images/JackSoldered.jpg)
